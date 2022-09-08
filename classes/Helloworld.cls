@@ -9,4 +9,7 @@ public class Helloworld {
 	 public void method2(){
         System.debug('Hello im modifided method ');
     }
+	public void method3(){
+        System.debug('trying from git');
+    }
 }
