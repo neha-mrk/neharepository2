@@ -25,7 +25,7 @@ public class Calculatorclass {
     {
         return i/j;
     }
-  System.debug ('Hello git bash');
+  System.debug ('Hello');
 
 
 }
